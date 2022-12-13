@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/me/me",
+    "pages/schedule/schedule",
+    "pages/bindUser/bindUser",
+    "pages/enterFreeSchedule/enterFreeSchedule",
+    "pages/manageFreeSchedule/manageFreeSchedule"
+  ],
+  "tabBar":{
+    "color": "#464a56",
+    "selectedColor": "#6595e9",
+    "backgroundColor": "#0000C",
+    "borderStyle": "black",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "",
+        "selectedIconPath": ""
+    },{
+      "pagePath": "pages/me/me",
+      "text": "我的",
+      "iconPath": "",
+      "selectedIconPath": ""
+   }]
+  },
+
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "校园任意行",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
