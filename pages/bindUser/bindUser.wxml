@@ -1,5 +1,6 @@
 <!--pages/bindUser/bindUser.wxml-->
 <text>pages/bindUser/bindUser.wxml</text>
 
+<view></view>
 <view>tes</view>
 <view>test2</view>
